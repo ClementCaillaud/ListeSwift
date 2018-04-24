@@ -1,0 +1,16 @@
+PODS:
+  - CryptoCurrencyKit (0.1.0)
+
+DEPENDENCIES:
+  - CryptoCurrencyKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CryptoCurrencyKit
+
+SPEC CHECKSUMS:
+  CryptoCurrencyKit: f83e9d740a8665f10f23ca8dda72cdc74c9f4015
+
+PODFILE CHECKSUM: a875ca2e5e0e174ba414223f9cbcfff91fda9bad
+
+COCOAPODS: 1.5.0
